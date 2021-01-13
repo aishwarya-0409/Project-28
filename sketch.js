@@ -47,7 +47,7 @@ function draw() {
   rectMode(CENTER);
   background(0);
 
-  background("cyan");
+  background("pink");
   textSize(30);
   fill('purple');
   textFont("Broadway");
@@ -91,7 +91,7 @@ function mouseDragged(){
 }
 
 function mouseReleased(){
-	sling.fly();
+	sling.();
 }
 
 function keyPressed() {
