@@ -50,7 +50,7 @@ function draw() {
   background("pink");
   textSize(30);
   fill('purple');
-  textFont("Broadway");
+  textFont("cursive");
   text("Press Space to get another stone to Play!!",50 ,50);
   image(boy ,200,380,200,300);
   
